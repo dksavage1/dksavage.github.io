@@ -1,0 +1,10 @@
+#in class practice on function test
+
+def sumofsquare(x,y,): 
+    '''This functions compute the sun of squares'''
+    ans = x**2 + y**2
+    return ans
+
+
+    #test it
+    print(sumofsquare(3,4))
